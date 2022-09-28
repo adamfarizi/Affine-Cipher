@@ -1,2 +1,1 @@
-#Afine Cipher
 Cipher affine adalah jenis cipher substitusi monoalphabetic. Setiap karakter dipetakan ke ekuivalen numeriknya, dienkripsi dengan fungsi matematika dan kemudian dikonversi ke huruf yang berkaitan dengan nilai numerik barunya. Meskipun semua cipher monoalphabetic lemah, cipher affine jauh lebih kuat daripada cipher lainnya, karena memiliki lebih banyak kunci. Ilustrasi proses enkripsi dan dekripsi dari algoritma affine cipher. 
